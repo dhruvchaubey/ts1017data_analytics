@@ -1,1 +1,3 @@
 # ts1017data_analytics
+this project is to showcase a hands-on experience in the lifecycle of a data analytics project, mastering essential skills including data cleansing, descriptive analytics, exploratory data analysis, and data visualization. 
+Delta Airlines, a leading global carrier, offers extensive flight services across domestic and international markets, focusing on enhancing customer experience and operational efficiency. They are exploring strategies to better integrate its data systems and leverage advanced technologies to maintain its industry standing. because of new challenges such as competitive pressure from low-cost carriers and data security concerns.
